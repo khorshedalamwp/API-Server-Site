@@ -1,0 +1,26 @@
+/**
+*  BS-Server Stylesheets.
+*/
+
+.bs-table{
+    border: 2px solid #2d3748;
+}
+
+.bs-reports{
+    border: 2px solid;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 17px;
+    background: #363b49;
+    color: ghostwhite;
+}
+
+.bs-data{
+    color: white;
+    background: #02202a;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+}
